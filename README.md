@@ -8,9 +8,9 @@
 [![kyohwee's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimKyoHwee&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/KimKyoHwee/github-readme-stats)
  
 <br>
-<div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimKyoHwee&layout=compact)
-</div><br>
+<br>
 
  
 ## 📞 Contact 📞
@@ -80,7 +80,7 @@
     <p><strong>Communication</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-        <img src="https://img.shields.io/badge/StarUML-7D57C1?style=flat-square&logo=staruml&logoColor=white">
+    
     </div>
 </div><br>
 </div>
