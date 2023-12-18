@@ -5,26 +5,10 @@
 
 -------
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
-
-[![kyohwee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/KimKyoHwee/github-readme-stats)
+[![kyohwee's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimKyoHwee&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/KimKyoHwee/github-readme-stats)
  
 <br>
-
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://bi-sz.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
-    </a>
-    <a href="https://velog.io/@bi-sz">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-    <a href="https://li-yo.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://velog.io/@bi-sz)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
+<div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimKyoHwee&layout=compact)
 </div><br>
 
@@ -40,6 +24,7 @@
     <a href="https://www.instagram.com/ky0_hw">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
+    <a href="https://www.notion.so/OS-f691d3d093104840819e7e65eca382ce" target="_blank"><img src="https://img.shields.io/badge/notion-#000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 </div><br>
     
