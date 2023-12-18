@@ -69,7 +69,6 @@
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
         <img src="https://img.shields.io/badge/django-92E20?style=flat-square&logo=django&logoColor=white">
     </div>
- 
     <!-- Version Control -->
     <p><strong>Version Control</strong></p>
     <div>
