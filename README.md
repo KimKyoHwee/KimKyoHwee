@@ -24,8 +24,8 @@
     <a href="https://www.instagram.com/ky0_hw">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-    <a href="https://www.notion.so/OS-f691d3d093104840819e7e65eca382ce"> 
-     target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+    <a href="https://www.notion.so/OS-f691d3d093104840819e7e65eca382ce" target="_blank">
+     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
     </a>
 
 </div><br>
