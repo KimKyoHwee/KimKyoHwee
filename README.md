@@ -6,7 +6,7 @@
 -------
 
 [![kyohwee's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimKyoHwee&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/KimKyoHwee/github-readme-stats)
- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fdsa200)
+ ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwee000)
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimKyoHwee&layout=compact)
